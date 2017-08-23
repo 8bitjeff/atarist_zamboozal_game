@@ -1,0 +1,13 @@
+Install Steem : http://steem.atari.st/
+
+Place the contents of this folder on the emulated hard drive "hard_drv".
+The easiest way to d othis is to create a folder called "hard_drv" on the pc and place this folder in it.
+In steem either during setup, or during emulation you can set the hard drivweto be the hard_drv folder you created.
+To do this, click on the disks icon on the nav and click on the Hard Drive button. Browse and select this folder.
+
+Load up steam with out any disks in any drives and opne up the hard drive when the tos desktop opens.
+Open the Zamboozal folder and double click on the zamgame.prg file.
+
+Some of the digital sounds are off, but the game seems to work fine (if a little slow).
+
+I know the game works with tos102us.img, so I have included it in this archive.
